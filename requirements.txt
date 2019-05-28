@@ -2,7 +2,7 @@ cachetools==3.0.0
 click==6.7
 Flask==0.12.2
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.10.1
 MarkupSafe==1.0
 protobuf==3.6.1
 python-magic==0.4.15
